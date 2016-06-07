@@ -20,9 +20,28 @@ namespace NoRegretsWebsite.Controllers
             return View();
         }
 
+        public ActionResult Events()
+        {
+            ViewBag.Message = "Your Event page.";
+
+            return View();
+        }
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your Contact page.";
+
+            return View();
+        }
+
+        public ActionResult Products()
+        {
+            ViewBag.Message = "Your Products page.";
+
+            return View();
+        }
+        public ActionResult FreedomNetwork()
+        {
+            ViewBag.Message = "Your Freedom Network page.";
 
             return View();
         }

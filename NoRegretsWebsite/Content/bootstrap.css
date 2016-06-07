@@ -18,12 +18,12 @@ html {
 }
 body {
   margin: 0;
-  background-image:url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/newparkresort/media/cache/newpark-resort-parkcity-utah-summer-activites-760x350.jpg);
-  background-size:cover
+  
 }
 
-.jumbotron{
-    background-image:none;
+.jumbotron {
+    /*background-image:url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/newparkresort/media/cache/newpark-resort-parkcity-utah-summer-activites-760x350.jpg);
+    background-size:cover*/
 }
 
 
