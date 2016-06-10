@@ -45,5 +45,89 @@ namespace NoRegretsWebsite.Controllers
 
             return View();
         }
+
+        public ActionResult BackPackLargeView()
+        {
+            
+
+            return View();
+        }
+
+        public ActionResult BlueJacketLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult BlackDuffleLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult RedBottleLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult RedHoodieLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult RedJacketLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult RedTankLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult BlackTShirtLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult WhiteTShirtLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult RedVNeckLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult WhiteVNeckLargeView()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult WhiteBottleLargeView()
+        {
+
+
+            return View();
+        }
     }
 }

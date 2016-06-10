@@ -214,6 +214,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\jquery-1.8.3.min.js" />
+    <Content Include="Scripts\jquery.elevateZoom-3.0.8.min.js" />
+    <Content Include="Scripts\jquery.elevatezoom.js" />
     <Content Include="NR_backpack.png" />
     <Content Include="NR_bluejacket.png" />
     <Content Include="NR_duffle.png" />
@@ -282,6 +285,18 @@
     <Content Include="Views\Home\Products.cshtml" />
     <Content Include="Views\Home\FreedomNetwork.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\BackPackLargeView.cshtml" />
+    <Content Include="Views\Home\BlueJacketLargeView.cshtml" />
+    <Content Include="Views\Home\BlackDuffleLargeView.cshtml" />
+    <Content Include="Views\Home\RedBottleLargeView.cshtml" />
+    <Content Include="Views\Home\RedHoodieLargeView.cshtml" />
+    <Content Include="Views\Home\RedJacketLargeView.cshtml" />
+    <Content Include="Views\Home\RedTankLargeView.cshtml" />
+    <Content Include="Views\Home\BlackTShirtLargeView.cshtml" />
+    <Content Include="Views\Home\WhiteTShirtLargeView.cshtml" />
+    <Content Include="Views\Home\RedVNeckLargeView.cshtml" />
+    <Content Include="Views\Home\WhiteVNeckLargeView.cshtml" />
+    <Content Include="Views\Home\WhiteBottleLargeView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
